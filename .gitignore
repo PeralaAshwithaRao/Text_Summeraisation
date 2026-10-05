@@ -1,0 +1,4 @@
+﻿textsumm/
+__pycache__/
+*.pyc
+.env
